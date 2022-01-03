@@ -23,4 +23,4 @@ docker-compose up
 
 * **Patrick Luiz** - *Initial work*
 
-## Exemplo de template copiado de: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+## Exemplo de template copiado de: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2# calculadora_api_teste
